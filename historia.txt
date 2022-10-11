@@ -1,3 +1,4 @@
+
 ejemplo hecho por andrea
 
 
@@ -5,3 +6,4 @@ esta es una prueba de platzi curso de git
 
 Andrea Pineda tiene 32 años
 
+es una maravilla de persona
